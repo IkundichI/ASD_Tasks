@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASD_Tasks.iml" filepath="$PROJECT_DIR$/ASD_Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task1/Task1.iml" filepath="$PROJECT_DIR$/Task1/Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task12/Task12.iml" filepath="$PROJECT_DIR$/Task12/Task12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task15/Task15.iml" filepath="$PROJECT_DIR$/Task15/Task15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task38/Task38.iml" filepath="$PROJECT_DIR$/Task38/Task38.iml" />
+    </modules>
+  </component>
+</project>
