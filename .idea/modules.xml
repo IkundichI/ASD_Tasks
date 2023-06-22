@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ASD_Tasks.iml" filepath="$PROJECT_DIR$/ASD_Tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1/Task1.iml" filepath="$PROJECT_DIR$/Task1/Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task10/Task10.iml" filepath="$PROJECT_DIR$/Task10/Task10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task12/Task12.iml" filepath="$PROJECT_DIR$/Task12/Task12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task15/Task15.iml" filepath="$PROJECT_DIR$/Task15/Task15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task23/Task23.iml" filepath="$PROJECT_DIR$/Task23/Task23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task25/Task25.iml" filepath="$PROJECT_DIR$/Task25/Task25.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task38/Task38.iml" filepath="$PROJECT_DIR$/Task38/Task38.iml" />
     </modules>
   </component>
